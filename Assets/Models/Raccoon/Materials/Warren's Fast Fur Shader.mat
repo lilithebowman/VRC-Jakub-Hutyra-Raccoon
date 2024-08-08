@@ -300,7 +300,7 @@ Material:
     - _FurShapeMask2Bits: 0
     - _FurShapeMask3Bits: 0
     - _FurShapeMask4Bits: 0
-    - _FurShellSpacing: 0.5
+    - _FurShellSpacing: 0.309
     - _FurTouchRange: 3.5
     - _FurTouchStrength: 0
     - _FurTouchThreshold: 0.15
